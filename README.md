@@ -15,3 +15,6 @@ To bind, you can:
 2) Staple the folded pages so that the staple closure is on the inside of the book. This may require a particularly long stapler.
 
 3) Imitate method 2 by punching two pairs of holes and tying thread in two loops. It takes more time, but the page can be folded 180° (front cover touching back cover) without breaking.
+
+Requirements:
+You need to install python and, using pip, install PyPDF2 and PySide6.
