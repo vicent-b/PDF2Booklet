@@ -5,7 +5,7 @@ This program reorders the pages of a PDF so that when printed, you just need to 
 This program has been made using Qt Designer and the libraries PyPDF2 and PySide6. You can find more projects at https://github.com/vicent-b
 
 ## Information:
-This program reorders the pages of a PDF so that when printed, it stitches the stack of pages together by folding them in half to form a book. Since the number of pages must be a multiple of 4, inserting pages is allowed. To print the cover in color and the rest in black and white, you can separate the outermost page by selecting the "save cover separately" option.
+This program reorders the pages of a PDF so that when printed, you just need to fold the pages in half to form a book. Since the number of pages must be a multiple of 4, inserting pages is allowed. To print the cover in color and the rest in black and white, you can separate the outermost page by selecting the "save cover separately" option.
 
 <ins>To print, you must set the printer to 2 pages per sheet, double-sided and to turn the page on the short edge.</ins>
 
